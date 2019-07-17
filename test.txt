@@ -1,3 +1,7 @@
 Coucou!!!
 It's time to lunch!!!!!!
+<<<<<<< HEAD
 Lunch was very good :) Portuguese dish for Thomas and a healthy salad for me. We had desserts!
+=======
+Lunch was very good :) Portuguese dish for Thomas and a healthy salad for me. After our meal, we drank coffe and tea. Then we started the afternoon classes.
+>>>>>>> sweets
